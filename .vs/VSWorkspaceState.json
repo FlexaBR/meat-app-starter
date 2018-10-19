@@ -1,14 +1,17 @@
 {
   "ExpandedNodes": [
     "",
-    "\\backend\\keys",
     "\\src",
     "\\src\\app",
     "\\src\\app\\restaurant-detail",
-    "\\src\\app\\restaurant-detail\\reviews",
+    "\\src\\app\\restaurant-detail\\menu-item",
+    "\\src\\app\\restaurant-detail\\shopping-cart",
     "\\src\\app\\restaurants",
-    "\\src\\assets\\img\\restaurants"
+    "\\src\\app\\restaurants\\restaurant",
+    "\\src\\app\\shared",
+    "\\src\\app\\shared\\messages",
+    "\\src\\app\\shared\\messages\\snackbar"
   ],
-  "SelectedNode": "\\src\\app\\app.routes.ts",
+  "SelectedNode": "\\src\\app\\restaurant-detail\\shopping-cart\\shopping-cart.component.html",
   "PreviewInSolutionExplorer": false
 }
