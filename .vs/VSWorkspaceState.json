@@ -3,15 +3,14 @@
     "",
     "\\src",
     "\\src\\app",
+    "\\src\\app\\not-found",
+    "\\src\\app\\order-summary",
     "\\src\\app\\restaurant-detail",
-    "\\src\\app\\restaurant-detail\\menu-item",
-    "\\src\\app\\restaurant-detail\\shopping-cart",
     "\\src\\app\\restaurants",
     "\\src\\app\\restaurants\\restaurant",
     "\\src\\app\\shared",
-    "\\src\\app\\shared\\messages",
-    "\\src\\app\\shared\\messages\\snackbar"
+    "\\src\\environments"
   ],
-  "SelectedNode": "\\src\\app\\restaurant-detail\\shopping-cart\\shopping-cart.component.html",
+  "SelectedNode": "\\protractor.conf.js",
   "PreviewInSolutionExplorer": false
 }
